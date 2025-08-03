@@ -123,7 +123,7 @@ mern-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/POS-Claude.git
+   git clone git@github.com:AleemHaider/pos.git
    cd POS-Claude
    ```
 
@@ -345,6 +345,6 @@ If you encounter any issues or have questions:
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ using Claude AI assistance</strong></p>
+  <p><strong>Built By Devspots.us</strong></p>
   <p>© 2025 ModernPOS. All rights reserved By Syed Aleem.</p>
 </div># pos

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "_id": "64a1b2c3d4e5f6789012347",
+      "name": "Test Product",
+      "description": "A test product for Cypress testing",
+      "sku": "TEST-001",
+      "price": 29.99,
+      "costPrice": 15.00,
+      "stock": 100,
+      "minStock": 10,
+      "maxStock": 500,
+      "unit": "piece",
+      "category": {
+        "_id": "64a1b2c3d4e5f6789012348",
+        "name": "Electronics",
+        "slug": "electronics"
+      },
+      "tenant": "64a1b2c3d4e5f6789012346",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "64a1b2c3d4e5f6789012349",
+      "name": "Another Product",
+      "description": "Another test product",
+      "sku": "TEST-002",
+      "price": 19.99,
+      "costPrice": 10.00,
+      "stock": 50,
+      "minStock": 5,
+      "maxStock": 200,
+      "unit": "piece",
+      "category": {
+        "_id": "64a1b2c3d4e5f6789012350",
+        "name": "Books",
+        "slug": "books"
+      },
+      "tenant": "64a1b2c3d4e5f6789012346",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 2,
+    "pages": 1
+  }
+}

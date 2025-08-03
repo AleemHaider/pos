@@ -1,0 +1,65 @@
+{
+  "data": {
+    "salesByDay": [
+      { "date": "2024-01-14", "sales": 12, "revenue": 358.88 },
+      { "date": "2024-01-15", "sales": 18, "revenue": 527.82 },
+      { "date": "2024-01-16", "sales": 15, "revenue": 442.85 },
+      { "date": "2024-01-17", "sales": 22, "revenue": 651.78 },
+      { "date": "2024-01-18", "sales": 19, "revenue": 563.81 },
+      { "date": "2024-01-19", "sales": 25, "revenue": 735.75 },
+      { "date": "2024-01-20", "sales": 16, "revenue": 473.84 }
+    ],
+    "salesByHour": [
+      { "hour": "09:00", "sales": 5 },
+      { "hour": "10:00", "sales": 8 },
+      { "hour": "11:00", "sales": 12 },
+      { "hour": "12:00", "sales": 15 },
+      { "hour": "13:00", "sales": 18 },
+      { "hour": "14:00", "sales": 22 },
+      { "hour": "15:00", "sales": 20 },
+      { "hour": "16:00", "sales": 17 },
+      { "hour": "17:00", "sales": 14 },
+      { "hour": "18:00", "sales": 10 }
+    ],
+    "topProducts": [
+      {
+        "_id": "64a1b2c3d4e5f6789012347",
+        "name": "Test Product",
+        "salesCount": 45,
+        "revenue": 1349.55,
+        "percentage": 35.2
+      },
+      {
+        "_id": "64a1b2c3d4e5f6789012349",
+        "name": "Another Product",
+        "salesCount": 32,
+        "revenue": 639.68,
+        "percentage": 25.1
+      }
+    ],
+    "topCategories": [
+      {
+        "_id": "64a1b2c3d4e5f6789012348",
+        "name": "Electronics",
+        "salesCount": 67,
+        "revenue": 2015.33,
+        "percentage": 45.6
+      },
+      {
+        "_id": "64a1b2c3d4e5f6789012350",
+        "name": "Books",
+        "salesCount": 43,
+        "revenue": 859.57,
+        "percentage": 29.3
+      }
+    ],
+    "paymentMethods": [
+      { "method": "cash", "count": 89, "revenue": 2654.23, "percentage": 60.5 },
+      { "method": "card", "count": 45, "revenue": 1876.45, "percentage": 30.6 },
+      { "method": "digital", "count": 13, "revenue": 389.82, "percentage": 8.9 }
+    ],
+    "averageOrderValue": 104.90,
+    "totalTransactions": 147,
+    "conversionRate": 12.3
+  }
+}

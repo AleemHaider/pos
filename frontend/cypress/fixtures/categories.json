@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "_id": "64a1b2c3d4e5f6789012348",
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Electronic devices and accessories",
+      "tenant": "64a1b2c3d4e5f6789012346",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "64a1b2c3d4e5f6789012350",
+      "name": "Books",
+      "slug": "books",
+      "description": "Books and literature",
+      "tenant": "64a1b2c3d4e5f6789012346",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "64a1b2c3d4e5f6789012351",
+      "name": "Clothing",
+      "slug": "clothing",
+      "description": "Apparel and fashion items",
+      "tenant": "64a1b2c3d4e5f6789012346",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

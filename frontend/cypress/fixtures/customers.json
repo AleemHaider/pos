@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "64a1b2c3d4e5f6789012352",
+      "name": "Test Customer",
+      "email": "customer@example.com",
+      "phone": "+1234567890",
+      "address": "123 Test Street, Test City, TC 12345",
+      "tenant": "64a1b2c3d4e5f6789012346",
+      "totalPurchases": 5,
+      "totalSpent": 149.95,
+      "lastPurchase": "2024-01-15T10:30:00.000Z",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "_id": "64a1b2c3d4e5f6789012353",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1987654321",
+      "address": "456 Main Avenue, Sample Town, ST 54321",
+      "tenant": "64a1b2c3d4e5f6789012346",
+      "totalPurchases": 3,
+      "totalSpent": 89.97,
+      "lastPurchase": "2024-01-10T14:20:00.000Z",
+      "isActive": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-10T14:20:00.000Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 2,
+    "pages": 1
+  }
+}

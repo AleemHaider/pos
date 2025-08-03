@@ -1,0 +1,79 @@
+{
+  "data": {
+    "revenue": {
+      "total": 15420.50,
+      "change": 12.5,
+      "changeType": "increase"
+    },
+    "sales": {
+      "total": 147,
+      "change": 8.3,
+      "changeType": "increase"
+    },
+    "customers": {
+      "total": 89,
+      "change": 15.2,
+      "changeType": "increase"
+    },
+    "averageOrder": {
+      "total": 104.90,
+      "change": -2.1,
+      "changeType": "decrease"
+    },
+    "topProducts": [
+      {
+        "_id": "64a1b2c3d4e5f6789012347",
+        "name": "Test Product",
+        "salesCount": 45,
+        "revenue": 1349.55
+      },
+      {
+        "_id": "64a1b2c3d4e5f6789012349",
+        "name": "Another Product",
+        "salesCount": 32,
+        "revenue": 639.68
+      }
+    ],
+    "lowStockProducts": [
+      {
+        "_id": "64a1b2c3d4e5f6789012354",
+        "name": "Low Stock Item",
+        "stock": 3,
+        "minStock": 10
+      }
+    ],
+    "recentSales": [
+      {
+        "_id": "64a1b2c3d4e5f6789012355",
+        "total": 59.98,
+        "customer": "Test Customer",
+        "createdAt": "2024-01-20T15:30:00.000Z",
+        "items": [
+          {
+            "product": "Test Product",
+            "quantity": 2,
+            "price": 29.99
+          }
+        ]
+      }
+    ],
+    "salesChart": [
+      { "date": "2024-01-14", "sales": 12, "revenue": 358.88 },
+      { "date": "2024-01-15", "sales": 18, "revenue": 527.82 },
+      { "date": "2024-01-16", "sales": 15, "revenue": 442.85 },
+      { "date": "2024-01-17", "sales": 22, "revenue": 651.78 },
+      { "date": "2024-01-18", "sales": 19, "revenue": 563.81 },
+      { "date": "2024-01-19", "sales": 25, "revenue": 735.75 },
+      { "date": "2024-01-20", "sales": 16, "revenue": 473.84 }
+    ],
+    "customerGrowth": [
+      { "date": "2024-01-14", "new": 3, "returning": 9 },
+      { "date": "2024-01-15", "new": 5, "returning": 13 },
+      { "date": "2024-01-16", "new": 2, "returning": 13 },
+      { "date": "2024-01-17", "new": 7, "returning": 15 },
+      { "date": "2024-01-18", "new": 4, "returning": 15 },
+      { "date": "2024-01-19", "new": 6, "returning": 19 },
+      { "date": "2024-01-20", "new": 3, "returning": 13 }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "_id": "64a1b2c3d4e5f6789012345",
+    "name": "Admin User",
+    "email": "admin@pos.com",
+    "role": "admin",
+    "tenants": [
+      {
+        "tenant": "64a1b2c3d4e5f6789012346",
+        "role": "admin"
+      }
+    ],
+    "currentTenant": "64a1b2c3d4e5f6789012346",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+}

@@ -346,5 +346,5 @@ If you encounter any issues or have questions:
 
 <div align="center">
   <p><strong>Built with ❤️ using Claude AI assistance</strong></p>
-  <p>© 2024 ModernPOS. All rights reserved.</p>
+  <p>© 2025 ModernPOS. All rights reserved By Syed Aleem.</p>
 </div># pos
